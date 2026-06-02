@@ -18,7 +18,12 @@ NutriAI is an AI-powered calorie tracking and nutrition assistant designed to he
 ## How to Run
 1. Download the project files.
 2. Open `nutriai.html` in a browser.
-3. Enter a Gemini API key if required.
+3. Enter a Gemini API key if required. 
+
+## AI TOOLS USED
+- Claude AI for UI improvements and debugging
+- Chatgpt & Gemini for troubleshoot
+- Gemini API for the nutrition analysis features
 
 ## Author
 Varnith K
